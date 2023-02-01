@@ -1,3 +1,9 @@
-body {
-    background-color: blue;
+body{
+    margin: 0px;
+}
+div {
+    background-color: #DDFEE4;/**#E4F9F5**/
+}
+h1 {
+    margin-top: 0px;
 }
