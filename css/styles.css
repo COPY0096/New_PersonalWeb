@@ -35,15 +35,15 @@ h3 {
     bottom: 300px;
 }
 
-.middle-container {
-    background-color: gold;
-    height: 200px;
+.middle-container img{
     width: 200px;
+    height: 200px;
+}
+.middle-container {
+
 }
 .bottom-container {
-    background-color: chartreuse;
-    height: 200px;
-    width: 200px;
+
 }
 
 .pro {
