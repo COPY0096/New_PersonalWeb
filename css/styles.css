@@ -1,8 +1,22 @@
 body{
     margin: 0px;
     text-align: center;
-    font-family: verdana,sans-serif;
+    font-family: 'Merriweather', serif;
 }
+
+h1 {
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .top-container {
     background-color: #DDFEE4;/**#E4F9F5**/
     position: relative;
@@ -37,7 +51,3 @@ body{
 }
 
 
-
-h1 {
-    margin-top: 0px;
-}
